@@ -39,7 +39,7 @@ build/*
 *.tmp
 
 # PDF files
-*.pdf
+# *.pdf
 
 # Other files
 *.dvi
